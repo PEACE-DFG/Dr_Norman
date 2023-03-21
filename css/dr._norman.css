@@ -1,0 +1,49 @@
+
+
+.me{
+   border-style: solid;
+   background-color: black;
+   color: white;
+   overflow: hidden;
+}
+.lot li{
+   list-style-type: none;
+   float: left;
+}
+.icon{
+   font-size: 30px;
+   float: left;
+   
+} 
+
+ .mine{
+    /* float: left;  */
+   padding: 0px 10px;
+   margin-top: 0px;
+   color: white;
+}
+button{
+   padding: 5px;
+}
+.single{
+    float: right; 
+} 
+.sign{
+   background-color: rgb(82, 203, 82);
+}
+.grey{
+   background-color: grey;
+   color: white;
+   text-align: center;
+}
+.unique{
+   background-color: black;
+   color: grey;
+   text-align: center;
+}
+.small{
+   color: rgb(197, 185, 185);
+}
+.you{
+   color: rgb(133, 244, 133);
+}
